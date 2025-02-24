@@ -4,7 +4,7 @@ class UserProfile extends Component {
         this.state = { 
             name: 'Alex' 
         };
-        this.changeName = this.changeName.bind(this); 
+        
     }
 
     changeName() {
